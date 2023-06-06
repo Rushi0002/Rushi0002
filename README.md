@@ -10,6 +10,8 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1gY0C94bQZatlvdm6mlmWwO9ExEmM5Ljc/view?usp=sharing](https://drive.google.com/file/d/1gY0C94bQZatlvdm6mlmWwO9ExEmM5Ljc/view?usp=sharing)
 
+<img align="center" alt="coading" width="400" heigth="400" src="https://uploads-ssl.webflow.com/625540b970bc1b4035617258/62ac994f76915e0df5d7dd23_DORA%20Metrics%20Blog.png"/>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/rushikeshvyawhare" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rushikeshvyawhare" height="30" width="40" /></a>
